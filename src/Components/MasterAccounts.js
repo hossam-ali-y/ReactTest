@@ -1,9 +1,8 @@
 import React, { useContext, useState, useEffect } from 'react'
 import PropTypes from 'prop-types'
 import axios from "axios";
-import Header from './Header';
-import DeleteModal from './DeleteModal';
-import NewAccount from './NewAccount';
+import Header from './header';
+import DeleteModal from './deleteModal';
 import { connect } from 'react-redux';
 import { ACTION_TYPES } from '../actions/account';
 import * as actions from "../actions/account";
