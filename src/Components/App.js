@@ -8,6 +8,7 @@ import SidBar from './SidBar';
 import { Provider } from "react-redux";
 import { store } from "../actions/store";
 
+
 class App extends Component {
 
   render() {
