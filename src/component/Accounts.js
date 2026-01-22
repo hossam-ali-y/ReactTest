@@ -1,7 +1,7 @@
 import React, { useContext, useState, useEffect } from 'react'
 import PropTypes from 'prop-types'
 import axios from "axios";
-import Header from './Header';
+import Header from './header';
 import DeleteModal from './deleteModal';
 import NewAccount from './newAccount';
 import { connect } from 'react-redux';
