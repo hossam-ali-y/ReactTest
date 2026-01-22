@@ -1,9 +1,0 @@
-.vscode
-wwwroot/*
-!wwwroot/upload
-bin
-obj
-Publish
-*.db
-*.zip
-
